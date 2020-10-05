@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>PrinCad</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/csci241/prinCad/ui/program.properties</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/program.properties</locationURI>
+		</link>
+		<link>
+			<name>src/csci241/prinCad/ui/text4.txt</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/text4.txt</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

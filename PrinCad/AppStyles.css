@@ -1,0 +1,16 @@
+.menu-bar {
+    -fx-background-color: #0000FF; //Menu Top Bar
+}
+.menu {
+    -fx-font: 16px "Serif";
+    -fx-background-color: #BBCCDD; // Menu Name Tab colors
+}
+.menu:focused {
+    -fx-background-color: #0000FF;
+}
+.menu-item:focused {
+     -fx-background-color: #0000FF; //Menu Selection Colors
+}
+.menu-item {
+    -fx-background-color: #BBCCDD;   //Menu Item Colors
+}
